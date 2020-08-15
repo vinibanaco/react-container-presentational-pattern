@@ -1,0 +1,18 @@
+.loading {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.emptyMessage {
+  font-size: 20px;
+  color: #f00;
+}
+
+.list {
+  list-style-type: none;
+  padding: 15px;
+}
+
+.list li {
+  margin-bottom: 20px;
+}
